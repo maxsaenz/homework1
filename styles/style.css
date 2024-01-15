@@ -1,0 +1,59 @@
+html {
+    font-size: 10px;
+    font-family: "Red Hat Mono";
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    color: white
+}
+
+h2 {
+    font-size: 50px;
+    text-align: center;
+    color: white
+}
+
+h3 {
+    font-size: 40px;
+    text-align: center;
+    color: white;
+}
+
+p,
+li,
+a {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    color: white
+}
+
+html {
+    background-color: black;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: rgb(206, 203, 203);
+    padding: 0 20px 20px 20px;
+    border: 5px solid white;
+}
+
+h1,
+h2,
+h3 {
+    margin: 0;
+    padding: 20px 0;
+    color: black;
+    text-shadow: 3px 3px 1px white;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
